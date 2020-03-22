@@ -89,10 +89,20 @@ We provide a REST-API to read the data of [COVID19_Cases_Cantons_CH_total.csv](.
 [Read more.](./rest/README.md)
 
 # Community Contributions
+### Visualization of Swiss and Cantonal Case Numbers over Time
 - https://rsalzer.github.io/COVID_19_CH/
-- https://rsalzer.github.io/COVID_19_KT_ZH/ <br>Robert Salzer on Twitter: https://twitter.com/rob_salzer
+- https://rsalzer.github.io/COVID_19_KT_ZH/ 
+<br>Robert Salzer on Twitter: https://twitter.com/rob_salzer
 
-- https://github.com/daenuprobst/covid19-cases-switzerland <br>Daniel Probst on Twitter: https://twitter.com/skepteis?lang=de
+### Operations Dashboard
+- https://covid19.ddrobotec.com/ 
+[github-repo](https://github.com/zdavatz/covid19_ch) 
+<br>Zeno Davatz on Twitter: https://twitter.com/zdavatz
+
+### corona-data.ch
+- https://www.corona-data.ch/ 
+[github-repo](https://github.com/daenuprobst/covid19-cases-switzerland) 
+<br>Daniel Probst on Twitter: https://twitter.com/skepteis?lang=de
 
 - https://github.com/opendatabs/covid_19 <br>Open Government Data Basel-Stadt on Twitter: https://twitter.com/OpenDataBS
 
