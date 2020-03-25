@@ -1,3 +1,5 @@
 .idea/*
 node_modules
 scrapers/data.sqlite
+scrapers/current.txt
+scrapers/__pycache__/
