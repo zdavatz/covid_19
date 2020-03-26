@@ -1,5 +1,9 @@
 .idea/*
 node_modules
 scrapers/data.sqlite
+<<<<<<< HEAD
 scrapers/current.txt
 scrapers/__pycache__/
+=======
+*.pyc
+>>>>>>> 28c3125c4f6cb5e4ba1d3d36f003a79da4245de2
