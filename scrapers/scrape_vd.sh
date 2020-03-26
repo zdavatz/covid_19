@@ -28,16 +28,6 @@ d = data.text
 # 23.03.2020	223	91	17	2162
 # 24.03.2020	266	100	21	2234
 
-<<<<<<< HEAD
-echo -n "Date and time: "
-echo -e "$d" | tail -1 | awk '{print $1;}'
-
-echo -n "Confirmed cases: "
-echo -e "$d" | tail -1 | awk '{print $5;}'
-
-echo -n "Deaths: "
-echo -e "$d" | tail -1 | awk '{print $4;}'
-=======
 rows = d.split('\n')
 
 headers = rows[0].split('\t')
@@ -49,4 +39,3 @@ print('Confirmed cases:', last_row[4])
 print('Deaths:', last_row[3])
 print('Hospitalized:', last_row[1])
 print('Recovered:', last_row[2])
->>>>>>> 222f560ea252d49b03d4d4d58ff046f5e19dc422
