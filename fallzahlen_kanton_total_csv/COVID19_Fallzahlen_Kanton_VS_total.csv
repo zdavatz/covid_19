@@ -75,4 +75,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 >>>>>>> a400591595c7f19484dca616f24893f07481c4b7
 =======
 2020-03-27,15:00,VS,"",808,104,15,14,"",20,https://www.vs.ch/documents/6756452/7008787/Sit%20Epid%20-%20%C3%89tat%20Stand%2027.03.2020.pdf
+<<<<<<< HEAD
 >>>>>>> cd1934e961183759aeb294a9ce3e2581e1d1aeb0
+=======
+2020-03-28,15:00,VS,"",902,"","","","",21,https://www.vs.ch/de/web/coronavirus
+>>>>>>> 6b491bf47d7cd45b4126662292f242d9942f6590
