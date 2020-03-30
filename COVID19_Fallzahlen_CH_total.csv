@@ -579,10 +579,12 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 2020-03-28,18:00,AI,"",13,"","","","","",https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 2020-03-29,"",BE,"",798,"","","","",10,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html
 2020-03-29,"",BL,"",511,"","","","",6,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft
+2020-03-29,,FL,,62,,,,,,https://www.regierung.li/de/mitteilungen/223347/?typ=news
 2020-03-29,"",FR,"",442,76,"","","",16,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton
 2020-03-29,"",SG,"",365,"","","","",5,https://www.sg.ch/tools/informationen-coronavirus.html
 2020-03-29,"",SZ,"",128,"","","",33,2,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 2020-03-29,"",TG,"",138,"","","","",1,https://www.tg.ch/news/fachdossier-coronavirus.html/10552
+2020-03-29,"",UR,"",50,7,"","",3,"",https://www.ur.ch/themen/2920
 2020-03-29,00:00,SO,"",190,"","","","",2,https://corona.so.ch/
 2020-03-29,08:00,AR,"",48,"","","","",2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 2020-03-29,08:00,SH,"",40,"","","","","",https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -594,7 +596,13 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 2020-03-29,14:00,ZH,,1758,194,,46,,15,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7
 2020-03-29,15:00,VS,"",964,112,23,14,"",21,https://www.vs.ch/documents/6756452/7008787/Sit%20Epid%20-%20%C3%89tat%20Stand%2029.03.2020.pdf
 2020-03-29,16:00,JU,"",118,23,5,"","","",https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html
+2020-03-29,16:00,JU,"",118,25,5,"","","",https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html
 2020-03-29,16:15,NW,"",59,"","","","","",https://www.nw.ch/gesundheitsamtdienste/6044
+2020-03-30,"",FR,"",477,77,"","","",17,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton
+2020-03-30,"",OW,"",46,"","","","","",https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
+2020-03-30,07:00,SH,"",41,"","","","","",https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
+2020-03-30,12:00,AI,"",14,"","","","","",https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
+2020-03-30,13:30,GL,"",50,1,"","","","",https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen
 <<<<<<< HEAD,"","","","","","","","","",""
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
@@ -638,16 +646,6 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
-<<<<<<< HEAD,"","","","","","","","","",""
-<<<<<<< HEAD,,,,,,,,,,
-<<<<<<< HEAD,,,,,,,,,,
-<<<<<<< HEAD,,,,,,,,,,
-<<<<<<< HEAD,,,,,,,,,,
-<<<<<<< HEAD,,,,,,,,,,
-<<<<<<< HEAD,,,,,,,,,,
-<<<<<<< HEAD,,,,,,,,,,
-<<<<<<< HEAD,,,,,,,,,,
-<<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,"","","","","","","","","",""
 <<<<<<< HEAD,,,,,,,,,,
@@ -660,6 +658,17 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
+<<<<<<< HEAD,"","","","","","","","","",""
+<<<<<<< HEAD,,,,,,,,,,
+<<<<<<< HEAD,,,,,,,,,,
+<<<<<<< HEAD,,,,,,,,,,
+<<<<<<< HEAD,,,,,,,,,,
+<<<<<<< HEAD,,,,,,,,,,
+<<<<<<< HEAD,,,,,,,,,,
+<<<<<<< HEAD,,,,,,,,,,
+<<<<<<< HEAD,,,,,,,,,,
+<<<<<<< HEAD,,,,,,,,,,
+<<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
@@ -667,6 +676,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,"","","","","","","","","",""
+<<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
 <<<<<<< HEAD,,,,,,,,,,
@@ -759,16 +769,6 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 =======,,,,,,,,,,
 =======,,,,,,,,,,
 =======,,,,,,,,,,
-=======,"","","","","","","","","",""
-=======,,,,,,,,,,
-=======,,,,,,,,,,
-=======,,,,,,,,,,
-=======,,,,,,,,,,
-=======,,,,,,,,,,
-=======,,,,,,,,,,
-=======,,,,,,,,,,
-=======,,,,,,,,,,
-=======,,,,,,,,,,
 =======,,,,,,,,,,
 =======,"","","","","","","","","",""
 =======,,,,,,,,,,
@@ -781,12 +781,24 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 =======,,,,,,,,,,
 =======,,,,,,,,,,
 =======,,,,,,,,,,
+=======,"","","","","","","","","",""
+=======,,,,,,,,,,
+=======,,,,,,,,,,
+=======,,,,,,,,,,
+=======,,,,,,,,,,
+=======,,,,,,,,,,
+=======,,,,,,,,,,
+=======,,,,,,,,,,
+=======,,,,,,,,,,
+=======,,,,,,,,,,
+=======,,,,,,,,,,
 =======,,,,,,,,,,
 =======,,,,,,,,,,
 =======,,,,,,,,,,
 =======,,,,,,,,,,
 =======,,,,,,,,,,
 =======,"","","","","","","","","",""
+=======,,,,,,,,,,
 =======,,,,,,,,,,
 =======,,,,,,,,,,
 =======,,,,,,,,,,
@@ -869,6 +881,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 >>>>>>> 6f43e52e70b74d2621b407e5b1c47510db5a500f,,,,,,,,,,
 >>>>>>> 6f43e52e70b74d2621b407e5b1c47510db5a500f,,,,,,,,,,
 >>>>>>> 6f43e52e70b74d2621b407e5b1c47510db5a500f,,,,,,,,,,
+>>>>>>> 6f68222aeb4341c86878ef1e693a826dadea4a7a,,,,,,,,,,
+>>>>>>> 6f68222aeb4341c86878ef1e693a826dadea4a7a,,,,,,,,,,
 >>>>>>> 706d8b2a5cb9be0d572ac72a8856f7ef617bb1ed,,,,,,,,,,
 >>>>>>> 706d8b2a5cb9be0d572ac72a8856f7ef617bb1ed,,,,,,,,,,
 >>>>>>> 737c6f162fa3348fb93c13fd0260fb168fb05d4f,,,,,,,,,,
@@ -964,6 +978,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumul_ICU,ncumul_vent,ncumul_released,ncumul_deceased,source
 date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumul_ICU,ncumul_vent,ncumul_released,ncumul_deceased,source
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 2020-03-28,15:00,VS,"",902,110,19,15,"",21,https://www.vs.ch/documents/6756452/7008787/Sit%20Epid%20-%20%C3%89tat%20Stand%2028.03.2020.pdf
 2020-03-28,15:30,NW,"",55,"","","","","",https://www.nw.ch/gesundheitsamtdienste/6044
@@ -992,3 +1007,5 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 >>>>>>> 899aef8fd16db9fb85752e8f70dffae5ff071af8
 =======
 >>>>>>> 4a3fbfe4efa0cd36de2530a88a18599c69c37e0c
+=======
+>>>>>>> dd82eaf0789aceb4f6bca342d3a83ef48fe144e1
