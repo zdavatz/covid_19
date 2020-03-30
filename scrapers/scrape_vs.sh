@@ -5,18 +5,8 @@ import scrape_common as sc
 print('VS')
 d = sc.download('https://www.vs.ch/de/web/coronavirus')
 sc.timestamp()
-<<<<<<< HEAD
-d = sc.filter(r'best(ä|&auml;)tigte F(ä|&auml;)lle', d)
-=======
-d = sc.filter(r'best(ä|&auml;)tigte\s*F(ä|&auml;)lle', d)
->>>>>>> 9b6cce617bfa1c06b05955ab908bf40ae208d8b2
-d = d.replace('&nbsp;', ' ')
 
-# 2020-03-21
-"""
- <p>21.03.2020: Derzeit gibt es 359 bestätigte Fälle von Coronavirus-Infektionen im Kanton.&nbsp;Insgesamt hat das Virus bisher den Tod von 9&nbsp;Personen im Wallis verursacht.</p>
-"""
-<<<<<<< HEAD
+d = sc.filter(r'best(ä|&auml;)tigte\s*F(ä|&auml;)lle', d)
 
 # 2020-03-29
 """
