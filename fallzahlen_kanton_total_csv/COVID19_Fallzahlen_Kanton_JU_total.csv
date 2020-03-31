@@ -70,4 +70,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 >>>>>>> 6f68222aeb4341c86878ef1e693a826dadea4a7a
 =======
 2020-03-30,16:00,JU,"",122,23,5,"","","",https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html
+<<<<<<< HEAD
 >>>>>>> 8cf8482ad5b0a82dcb94495c650eec087a3e8925
+=======
+2020-03-31,16:00,JU,"",127,23,4,"","","",https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html
+>>>>>>> d97493b7d36aabc6fdb8f60c34867c6d50d9d91a
