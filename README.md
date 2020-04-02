@@ -111,7 +111,8 @@ We provide a REST-API to read the data of [COVID19_Cases_Cantons_CH_total.csv](.
 [github-repo](https://github.com/daenuprobst/covid19-cases-switzerland) 
 <br>Daniel Probst on Twitter: https://twitter.com/skepteis?lang=de
 
-- https://github.com/opendatabs/covid_19 <br>Open Government Data Basel-Stadt on Twitter: https://twitter.com/OpenDataBS
+### Interactive Small Multiples of Case Numbers by Canton
+- https://sars-cov-2-switzerland.netlify.com/
 
 <<<<<<< HEAD
 - https://covid19.ddrobotec.com/ based on accumulated data from https://github.com/zdavatz/covid19_ch
@@ -122,5 +123,8 @@ We provide a REST-API to read the data of [COVID19_Cases_Cantons_CH_total.csv](.
 - [https://covid19-rest.herokuapp.com](https://covid19-rest.herokuapp.com)
 - [github-repo](https://github.com/apfeuti/covid19-rest) <br>Andreas Pfeuti
 >>>>>>> 52dc4e1085eb06af1405e721d43f60564746db20
+
+### Data for Basel-Stadt
+- https://github.com/opendatabs/covid_19 <br>Open Government Data Basel-Stadt on Twitter: https://twitter.com/OpenDataBS
 
 Many thanks for the great work!
