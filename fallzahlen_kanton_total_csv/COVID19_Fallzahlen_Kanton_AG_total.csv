@@ -65,4 +65,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 >>>>>>> 8cf8482ad5b0a82dcb94495c650eec087a3e8925
 =======
 2020-04-01,15:00,AG,"",549,94,27,27,"",11,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200401_KFS_Coronavirus_Lagebulletin_24.pdf
+<<<<<<< HEAD
 >>>>>>> 13166802d7e43d8c604845b68b1f421849530529
+=======
+2020-04-02,15:00,AG,"",592,94,27,27,"",12,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200402_KFS_Coronavirus_Lagebulletin_25.pdf
+>>>>>>> 178b4b79b689273a70154a212ecfe2c976cf3c8b
