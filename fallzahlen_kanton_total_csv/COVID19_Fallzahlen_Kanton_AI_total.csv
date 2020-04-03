@@ -18,4 +18,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 >>>>>>> a78daabb88632eb81887efeefdbda57a760bc81d
 =======
 2020-04-02,17:00,AI,"",20,"","","","","",https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
+<<<<<<< HEAD
 >>>>>>> 178b4b79b689273a70154a212ecfe2c976cf3c8b
+=======
+2020-04-03,11:00,AI,"",20,"","","","","",https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
+>>>>>>> 551fa2de9171d0ca57135bb5a3f0873da958bb09
