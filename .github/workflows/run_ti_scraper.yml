@@ -1,8 +1,8 @@
-name: Run NE scraper
+name: Run TI scraper
 
 on:
   schedule:
-    - cron:  '22 * * * *'
+    - cron:  '28 * * * *'
 
 jobs:
   run_scraper:
@@ -31,13 +31,12 @@ jobs:
         
     - name: Scrape new data
       env:
-        SCRAPER_KEY: NE
-        SCRAPER_SOURCE: https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Coronavirus.aspx
+        SCRAPER_KEY: TI
       run: |
         ./scrapers/run_scraper.sh
         
     # Commit to repo with updated file
     - uses: stefanzweifel/git-auto-commit-action@v4.1.1
       with:
-        commit_message: Update COVID19_Fallzahlen_Kanton_NE_total.csv from scraper
+        commit_message: Update COVID19_Fallzahlen_Kanton_TI_total.csv from scraper
         branch: ${{ github.head_ref }}

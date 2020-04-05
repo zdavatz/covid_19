@@ -52,7 +52,7 @@ Note: Image below is updated every 15 minutes.
 |[GR](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_GR_total.csv)|scraping|no|
 |[JU](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_JU_total.csv)|scraping|no|
 |[LU](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_LU_total.csv)|scraping|no|
-|[NE](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_NE_total.csv)|scraping|no|
+|[NE](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_NE_total.csv)|manually|no|
 |[NW](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_NW_total.csv)|scraping|no|
 |[OW](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_OW_total.csv)|scraping|no|
 |[SG](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_SG_total.csv)|scraping|yes|
@@ -60,12 +60,12 @@ Note: Image below is updated every 15 minutes.
 |[SO](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_SO_total.csv)|scraping|yes|
 |[SZ](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_SZ_total.csv)|scraping|no|
 |[TG](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_TG_total.csv)|scraping|no|
-|[TI](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_TI_total.csv)|manually|yes|
+|[TI](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_TI_total.csv)|scraping|yes|
 |[UR](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_UR_total.csv)|scraping|yes|
 |[VD](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_VD_total.csv)|scraping|yes|
 |[VS](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_VS_total.csv)|scraping|yes|
 |[ZG](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZG_total.csv)|scraping|no|
-|[ZH](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv)|manually|yes|
+|[ZH](https://github.com/openZH/covid_19/blob/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv)|scraping|yes|
 
 # Data structure
 The data of the Cantonal case numbers is structured as follows:
@@ -91,9 +91,18 @@ The data of the Cantonal case numbers is structured as follows:
 Note that only numbers communicated by the cantons are published in the files, i.e. it's possible that there are gaps, when a canton did not provide a certain number on a date.
 It's on purpose that the cumulative numbers are not carried forward if no new number is communicated.
 
+<<<<<<< HEAD
 # REST-API
 We provide a REST-API to read the data of [COVID19_Cases_Cantons_CH_total.csv](./COVID19_Cases_Cantons_CH_total.csv) in a machine-readable manner.
 [Read more.](./rest/README.md)
+=======
+## Note about empty values vs. `0`:
+
+| Value    | Meaning |
+|----------| --------|
+| 0        | canton communicated `0` for this variable on that date|
+|empty     | canton communicated nothing/did not provide a value for this variable on that date|
+>>>>>>> d3f453bd5fa4259c75193fa57142a34acb665880
 
 # Community Contributions
 ### Visualization of Swiss and Cantonal Case Numbers over Time

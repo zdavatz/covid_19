@@ -54,8 +54,15 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 =======
 2020-04-01,"",SG,"",414,"","","","",7,https://www.sg.ch/tools/informationen-coronavirus.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 2020-04-02,"",SG,"",455,53,11,"",49,8,https://www.sg.ch/tools/informationen-coronavirus.html
 >>>>>>> 13166802d7e43d8c604845b68b1f421849530529
 =======
 2020-04-02,"",SG,"",480,53,11,"",49,8,https://www.sg.ch/tools/informationen-coronavirus.html
 >>>>>>> 178b4b79b689273a70154a212ecfe2c976cf3c8b
+=======
+2020-04-02,"",SG,"",480,64,11,"",49,8,https://www.sg.ch/tools/informationen-coronavirus.html
+2020-04-03,"",SG,"",480,75,12,"",50,8,https://www.sg.ch/tools/informationen-coronavirus.html
+2020-04-04,"",SG,"",504,79,13,"",62,9,https://www.sg.ch/tools/informationen-coronavirus.html
+2020-04-05,"",SG,"",515,70,13,"",70,9,https://www.sg.ch/tools/informationen-coronavirus.html
+>>>>>>> d3f453bd5fa4259c75193fa57142a34acb665880
